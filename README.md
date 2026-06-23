@@ -4,15 +4,22 @@ My project for the bachelor thesis.
 
 ## How to run
 
-After cloning the repo locally, navigate to the folder.
+**STEP 1:**  
+Clone the repo locally and navigate to the folder.
 
-STEP 1:
+**STEP 2:**  
 Install the mvtec anomaly detection dataset locally. You can find it on following page.
 https://www.mvtec.com/research-teaching/datasets/mvtec-ad
 
 Note: You need to fill some information to get access to the download link.
 
-STEP 2:
+**STEP 3:**  
+Make a folder called datasets.
+
+**STEP 4:**  
+Extract the dataset you just downloaded inside of that folder.
+
+**STEP 5:**  
 Once you have downloaded the dataset you can run following commands:
 
 ```
