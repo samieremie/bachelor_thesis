@@ -1,2 +1,11 @@
 # bachelor_thesis
-This is the repository for my bachelor thesis project
+My project for the bachelor thesis.
+
+## How to run
+After cloning the repo locally, navigate to the folder and run following commands:
+
+```
+python -m venv .venv
+source .venv/bin/activate  # Or .venv\Scripts\activate on Windows
+pip install -r requirements.txt
+```
