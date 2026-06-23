@@ -28,4 +28,17 @@ source .venv/bin/activate  # Or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
+**STEP 6:**  
+Create a .env file
+
+**STEP 7:**  
+Go to OpenRouter and do all the steps to create an API key.
+
+**STEP 8:**  
+Now put the API key inside of the .env file like this:
+OPENROUTER_API_KEY=hereComesTheKey
+
+The key self starts with something like this:
+sk-or-v1.....
+
 Now you are ready to run the jupyter notebook.
